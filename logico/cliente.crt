@@ -1,0 +1,91 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=Sao Paulo, L=Bauru, O=Logico/emailAddress=me@my.org
+        Validity
+            Not Before: Apr  7 20:54:31 2018 GMT
+            Not After : Apr  4 20:54:31 2028 GMT
+        Subject: C=BR, ST=Sao Paulo, L=Bauru, O=Logico, OU=Unidade Telecom, CN=cliente/emailAddress=me@my.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f8:0d:5c:29:0d:6d:67:d0:73:a3:70:e3:d4:fd:
+                    da:8b:78:3e:f2:a5:fa:ba:cd:47:17:11:35:62:f0:
+                    23:ca:e4:13:f1:03:c6:e4:56:1e:85:1f:b9:c4:fa:
+                    6d:e6:9d:a0:48:33:57:e7:7c:cd:55:e0:76:32:88:
+                    af:a9:bb:38:92:d3:db:49:b1:12:ea:56:af:e0:bb:
+                    ac:e2:03:eb:cd:0a:d8:63:5f:3a:e4:07:f2:69:9c:
+                    16:6d:9b:16:1c:78:22:85:16:67:15:eb:33:fe:74:
+                    fd:d4:91:87:5c:00:df:db:f5:6a:86:b5:42:c5:d3:
+                    c6:7d:2d:06:17:0c:f8:92:e5:b3:dc:a5:0a:4f:d1:
+                    fe:9c:20:e7:4b:ee:02:65:1b:ba:86:70:cb:0e:3c:
+                    71:6d:72:c5:db:64:ab:ea:1c:c8:2f:80:55:e4:6c:
+                    48:70:2a:69:c7:d7:13:4b:29:17:3c:23:39:51:c2:
+                    80:c0:05:97:14:ff:7b:8e:8f:f4:10:55:74:20:eb:
+                    df:59:3e:ff:e1:1a:19:7e:a3:16:14:51:de:ef:af:
+                    4b:55:e3:83:21:d5:b2:b5:b4:b8:17:93:d3:5a:69:
+                    72:c4:13:8d:e7:3a:1f:88:ff:39:dc:a6:ab:b2:76:
+                    e7:c5:82:82:09:34:7e:12:1a:77:24:4b:81:34:d5:
+                    1c:bf
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AB:1E:2C:18:E9:E3:33:35:22:1A:41:B2:84:5F:EE:B0:E2:B2:22:8A
+            X509v3 Authority Key Identifier: 
+                keyid:37:09:14:FF:01:06:E4:EF:6E:BD:8C:EE:D5:6F:BA:E1:F5:7A:CD:B1
+                DirName:/C=BR/ST=Sao Paulo/L=Bauru/O=Logico/emailAddress=me@my.org
+                serial:FF:6F:17:2B:A9:0A:24:46
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         77:50:f3:64:27:88:ae:1f:a5:26:cb:3f:dc:e2:38:ac:15:ac:
+         d7:fb:41:5d:77:c6:d0:7f:dc:31:50:3f:4f:2c:38:9e:5a:80:
+         1f:25:c2:c9:21:0b:8e:ad:c8:f3:66:3e:31:b0:c7:90:7a:1b:
+         65:77:4f:96:16:22:51:f4:d3:e3:6a:ef:77:a7:51:f4:48:c2:
+         ac:20:7d:12:ce:74:57:3d:42:fc:e4:65:65:aa:09:57:9c:61:
+         4d:cd:4f:9c:11:11:35:88:c0:bf:d1:c0:33:c6:7e:7c:00:f2:
+         48:78:d5:4c:99:ce:3e:ba:9e:79:7e:61:eb:6b:e5:77:17:55:
+         c6:72:d6:26:92:6b:c9:05:23:af:b6:0d:db:63:f9:67:6d:f5:
+         0c:db:2a:26:6a:75:ea:67:9a:ad:4c:77:c6:b0:c1:c0:ad:d7:
+         9d:7c:81:ff:e2:d0:89:cd:d3:46:67:d7:d4:f7:f5:f9:6c:81:
+         27:d3:ea:17:4d:27:b1:5f:83:0d:ec:50:6d:af:91:68:ea:bc:
+         b9:45:b8:e3:fc:ec:d1:b5:29:9f:f1:5e:07:45:47:d6:8c:a5:
+         54:f1:5e:13:0f:1c:71:ec:bb:42:81:83:e8:b9:c9:bb:d0:7d:
+         64:49:7f:90:8b:86:64:e7:53:0f:41:c7:60:56:c9:c8:21:d8:
+         0d:bb:98:c1
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgIBAjANBgkqhkiG9w0BAQsFADBcMQswCQYDVQQGEwJCUjES
+MBAGA1UECBMJU2FvIFBhdWxvMQ4wDAYDVQQHEwVCYXVydTEPMA0GA1UEChMGTG9n
+aWNvMRgwFgYJKoZIhvcNAQkBFgltZUBteS5vcmcwHhcNMTgwNDA3MjA1NDMxWhcN
+MjgwNDA0MjA1NDMxWjCBiDELMAkGA1UEBhMCQlIxEjAQBgNVBAgTCVNhbyBQYXVs
+bzEOMAwGA1UEBxMFQmF1cnUxDzANBgNVBAoTBkxvZ2ljbzEYMBYGA1UECxMPVW5p
+ZGFkZSBUZWxlY29tMRAwDgYDVQQDEwdjbGllbnRlMRgwFgYJKoZIhvcNAQkBFglt
+ZUBteS5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD4DVwpDW1n
+0HOjcOPU/dqLeD7ypfq6zUcXETVi8CPK5BPxA8bkVh6FH7nE+m3mnaBIM1fnfM1V
+4HYyiK+puziS09tJsRLqVq/gu6ziA+vNCthjXzrkB/JpnBZtmxYceCKFFmcV6zP+
+dP3UkYdcAN/b9WqGtULF08Z9LQYXDPiS5bPcpQpP0f6cIOdL7gJlG7qGcMsOPHFt
+csXbZKvqHMgvgFXkbEhwKmnH1xNLKRc8IzlRwoDABZcU/3uOj/QQVXQg699ZPv/h
+Ghl+oxYUUd7vr0tV44Mh1bK1tLgXk9NaaXLEE43nOh+I/zncpquydufFgoIJNH4S
+GnckS4E01Ry/AgMBAAGjggEQMIIBDDAJBgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQg
+Fh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFKseLBjp
+4zM1IhpBsoRf7rDisiKKMIGOBgNVHSMEgYYwgYOAFDcJFP8BBuTvbr2M7tVvuuH1
+es2xoWCkXjBcMQswCQYDVQQGEwJCUjESMBAGA1UECBMJU2FvIFBhdWxvMQ4wDAYD
+VQQHEwVCYXVydTEPMA0GA1UEChMGTG9naWNvMRgwFgYJKoZIhvcNAQkBFgltZUBt
+eS5vcmeCCQD/bxcrqQokRjATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMC
+B4AwDQYJKoZIhvcNAQELBQADggEBAHdQ82QniK4fpSbLP9ziOKwVrNf7QV13xtB/
+3DFQP08sOJ5agB8lwskhC46tyPNmPjGwx5B6G2V3T5YWIlH00+Nq73enUfRIwqwg
+fRLOdFc9QvzkZWWqCVecYU3NT5wRETWIwL/RwDPGfnwA8kh41UyZzj66nnl+Yetr
+5XcXVcZy1iaSa8kFI6+2Ddtj+Wdt9QzbKiZqdepnmq1Md8awwcCt1518gf/i0InN
+00Zn19T39flsgSfT6hdNJ7Ffgw3sUG2vkWjqvLlFuOP87NG1KZ/xXgdFR9aMpVTx
+XhMPHHHsu0KBg+i5ybvQfWRJf5CLhmTnUw9Bx2BWycgh2A27mME=
+-----END CERTIFICATE-----
